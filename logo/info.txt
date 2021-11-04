@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: Changa-Bold
+font link: https://www.fontsquirrel.com/fonts/changa
+font author: Eduardo Tunni
+font author site: http://www.tipo.net.ar/
+
+
+icon designer: Creative Stall
+icon designer link: /creativestall
+        
+{"bg-gradient-0":"#87544E","bg-gradient-1":"#87544E","icon":"#ffffff","font":"#ffffff","slogan":"#ffffff"}
+      
